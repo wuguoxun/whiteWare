@@ -141,7 +141,7 @@ class Play extends Phaser.Scene {
 
   update() {
     if (Phaser.Input.Keyboard.JustDown(keyB)) {
-      window.location.href = "https://storymaps.arcgis.com/stories/ea7898fb21794c23a792fe4f08431e47";
+      window.location.href = "https://arcg.is/10G4Xv";
     }
 
 
